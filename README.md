@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Ambiente de trabajo
+
+Vue js en su version  2
+Se trabajó con componentes.
+Se utilizó sistema de cuadrícula integrado en el archivo style.css, basado en la librería Flexbox Grid.
+Se realizó diseño Mobile First.
+
